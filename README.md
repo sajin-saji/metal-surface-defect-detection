@@ -1,4 +1,5 @@
 # metal-surface-defect-detection
+   > Work in progress — code is being uploaded step by step.
 
 Detecting scratches and pits on metal surface images with Python and OpenCV.
 Next step is training a YOLO model and comparing it to this.
