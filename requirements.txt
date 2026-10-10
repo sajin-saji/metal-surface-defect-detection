@@ -1,0 +1,5 @@
+numpy>=1.24
+opencv-python>=4.8
+pytest>=7.0
+# Only needed for src/train_yolo.py (next project step):
+# ultralytics>=8.0
