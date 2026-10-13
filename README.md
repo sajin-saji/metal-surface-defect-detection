@@ -1,5 +1,5 @@
 # metal-surface-defect-detection
-   > Work in progress — code is being uploaded step by step.
+> Status: OpenCV pipeline, evaluation and tests done. Next step: YOLO comparison and real images (NEU dataset).
 
 Detecting scratches and pits on metal surface images with Python and OpenCV.
 Next step is training a YOLO model and comparing it to this.
